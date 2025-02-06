@@ -2,7 +2,7 @@
 const container = document.querySelector(".container");
 const optionsContainer = document.querySelector(".options");
 
-const country = "in";
+const country = "us";
 const options = [
   "general",
   "entertainment",
